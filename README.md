@@ -14,10 +14,10 @@ Poin dihitung menggunakan rumus resmi program Fasilitator:
 
 | Milestone | Syarat Kelulusan | Poin Bonus | Total Poin (Base + Bonus) |
 | :--- | :--- | :---: | :---: |
-| 🏅 **Milestone 1** | 6 Games + 14 Skill Badges | `+7` | **20.0 Poin** |
-| 🥈 **Milestone 2** | 8 Games + 28 Skill Badges | `+18` | **40.0 Poin** |
-| 🥇 **Milestone 3** | 10 Games + 42 Skill Badges | `+29` | **60.0 Poin** |
-| 👑 **Ultimate Milestone (M4)** | 12 Games + 56 Skill Badges | `+40` | **80.0 Poin** |
+| 🏅 **Milestone 1** | 6 Games + 14 Skill Badges | `+5` | **18.0 Poin** |
+| 🥈 **Milestone 2** | 8 Games + 28 Skill Badges | `+15` | **37.0 Poin** |
+| 🥇 **Milestone 3** | 10 Games + 42 Skill Badges | `+25` | **56.0 Poin** |
+| 👑 **Ultimate Milestone (M4)** | 12 Games + 56 Skill Badges | `+35` | **75.0 Poin** |
 
 ---
 
@@ -131,110 +131,119 @@ Klik pada judul game di bawah ini untuk melihat detail lab di dalamnya:
 Klik kategori di bawah ini untuk memunculkan daftar Skill Badge:
 
 <details>
-<summary><b>🤖 AI & Machine Learning (25 Quests)</b></summary>
+<summary><b>🤖 AI & Machine Learning (24 Quests)</b></summary>
 
 | No | ID Quest | Judul Skill Badge | Link Quest | Link YouTube |
 | :---: | :---: | :--- | :---: | :---: |
-| 1 | `978` | Develop Gen AI Apps with Gemini and Streamlit | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/978) | - |
-| 2 | `959` | Explore Generative AI in Agent Platform | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/959) | - |
-| 3 | `674` | Automate Data Capture at Scale with Document AI | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/674) | - |
-| 4 | `626` | Create ML Models with BigQuery ML | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/626) | - |
-| 5 | `1232` | Implement Multimodal Vector Search with BigQuery | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/1232) | - |
-| 6 | `1240` | Analyze and Reason on Multimodal Data with Gemini | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/1240) | - |
-| 7 | `1241` | Enhance Gemini Model Capabilities | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/1241) | - |
-| 8 | `1399` | Kickstarting Application Development with Gemini Code Assist | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/1399) | - |
-| 9 | `700` | Implement Speech and Language Solutions with Pre-trained APIs | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/700) | - |
-| 10 | `667` | Analyze Sentiment with Natural Language API | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/667) | - |
-| 11 | `633` | Analyze Images with the Cloud Vision API | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/633) | - |
-| 12 | `756` | Using the Google Cloud Speech API | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/756) | - |
-| 13 | `1426` | Develop AI-Powered Prototypes in Google AI Studio | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/1426) | - |
-| 14 | `1682` | Orchestrate Multi-agent Workflows with Gemini Enterprise | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/1682) | - |
-| 15 | `914` | Gemini in Google Docs | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/course_templates/914) | - |
-| 16 | `931` | Gemini in Google Slides | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/course_templates/931) | - |
-| 17 | `896` | Gemini in Gmail | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/course_templates/896) | - |
-| 18 | `905` | Gemini in Google Sheets | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/course_templates/905) | - |
-| 19 | `1135` | Gemini in Google Drive | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/course_templates/1135) | - |
-| 20 | `1783` | Gemini in Google Chat | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/course_templates/1783) | - |
-| 21 | `1179` | Create Engaging Video with Google Vids | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/course_templates/1179) | - |
-| 22 | `634` | Analyze Speech and Language with Google APIs | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/634) | - |
-| 23 | `943` | Gemini in Google Meet | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/course_templates/943) | - |
-| 24 | `1586` | Create Your First Gemini Enterprise Application | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/1586) | - |
-| 25 | `888` | Google Workspace with Gemini: Foundations of Your AI Workflow | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/course_templates/888) | - |
+| 1 | `959` | Explore Generative AI in Agent Platform Challenge Labs | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/959) | - |
+| 2 | `700` | Implement Speech and Language Solutions with Pre-trained APIs | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/700) | - |
+| 3 | `667` | Analyze Sentiment with Natural Language API | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/667) | - |
+| 4 | `756` | Using the Google Cloud Speech API | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/756) | - |
+| 5 | `633` | Analyze Images with the Cloud Vision API | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/633) | - |
+| 6 | `634` | Analyze Speech and Language with Google APIs | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/634) | - |
+| 7 | `981` | Inspect Rich Documents with Gemini Multimodality and Multimodal RAG Challenge Labs | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/981) | - |
+| 8 | `674` | Automate Data Capture at Scale with Document AI | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/674) | - |
+| 9 | `976` | Prompt Design in Agent Platform | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/976) | - |
+| 10 | `1682` | Orchestrate Multi-agent Workflows with Gemini Enterprise | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/1682) | - |
+| 11 | `1586` | Create Your First Gemini Enterprise Application | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/1586) | - |
+| 12 | `1596` | Engineer AI Agents with Agent Development Kit (ADK) Challenge Labs | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/1596) | - |
+| 13 | `1453` | Google DeepMind: Train A Small Language Model Challenge Labs | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/1453) | - |
+| 14 | `1459` | Build a Smart Cloud Application with Vibe Coding and MCP Challenge Labs | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/1459) | - |
+| 15 | `1445` | Deploy Multi-Agent Architectures Challenge Labs | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/1445) | - |
+| 16 | `1426` | Develop AI-Powered Prototypes in Google AI Studio Challenge Labs | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/1426) | - |
+| 17 | `1399` | Kickstarting Application Development with Gemini Code Assist Challenge Labs | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/1399) | - |
+| 18 | `1241` | Enhance Gemini Model Capabilities Challenge Labs | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/1241) | - |
+| 19 | `1240` | Analyze and Reason on Multimodal Data with Gemini Challenge Labs | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/1240) | - |
+| 20 | `1232` | Implement Multimodal Vector Search with BigQuery Challenge Labs | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/1232) | - |
+| 21 | `1076` | Build Real World AI Applications with Gemini and Imagen | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/1076) | - |
+| 22 | `978` | Develop Gen AI Apps with Gemini and Streamlit Challenge Labs | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/978) | - |
+| 23 | `626` | Create ML Models with BigQuery ML | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/626) | - |
+| 24 | `627` | Engineer Data for Predictive Modeling with BigQuery ML | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/627) | - |
 
 </details>
 
 <details>
-<summary><b>☁️ Cloud Infrastructure (28 Quests)</b></summary>
+<summary><b>☁️ Cloud Infrastructure (30 Quests)</b></summary>
 
 | No | ID Quest | Judul Skill Badge | Link Quest | Link YouTube |
 | :---: | :---: | :--- | :---: | :---: |
-| 1 | `714` | Develop and Secure APIs with Apigee X | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/714) | - |
-| 2 | `691` | Implement CI/CD Pipelines on Google Cloud | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/691) | - |
-| 3 | `716` | Implement DevOps Workflows in Google Cloud | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/716) | - |
-| 4 | `663` | Deploy Kubernetes Applications on Google Cloud | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/663) | - |
-| 5 | `741` | Develop Serverless Applications on Cloud Run | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/741) | - |
-| 6 | `649` | Develop Serverless Apps with Firebase | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/649) | - |
-| 7 | `630` | Use Machine Learning APIs on Google Cloud | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/630) | - |
-| 8 | `638` | Build a Website on Google Cloud | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/638) | - |
-| 9 | `662` | Deploy and Secure Serverless APIs with API Gateway | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/662) | - |
-| 10 | `653` | Monitor and Manage Google Cloud Resources | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/653) | - |
-| 11 | `661` | Deploy and Manage Apigee X | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/661) | - |
-| 12 | `747` | Monitoring in Google Cloud | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/747) | - |
-| 13 | `761` | Monitor Environments with Google Cloud Managed Service for Prometheus | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/761) | - |
-| 14 | `715` | Develop with Apps Script and AppSheet | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/715) | - |
+| 1 | `783` | Manage Kubernetes in Google Cloud | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/783) | - |
+| 2 | `676` | Implement Cloud Collaboration and Productivity Workflows | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/676) | - |
+| 3 | `630` | Use Machine Learning APIs on Google Cloud | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/630) | - |
+| 4 | `761` | Monitor Environments with Google Cloud Managed Service for Prometheus | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/761) | - |
+| 5 | `715` | Develop with Apps Script and AppSheet | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/715) | - |
+| 6 | `755` | Use APIs to Work with Cloud Storage | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/755) | - |
+| 7 | `754` | The Basics of Google Cloud Compute | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/754) | - |
+| 8 | `747` | Monitoring in Google Cloud | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/747) | - |
+| 9 | `727` | Build Event-Driven Applications with Eventarc | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/727) | - |
+| 10 | `728` | Implement Event-Driven Messaging and Automation Workflows | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/728) | - |
+| 11 | `1164` | Secure Software Delivery Challenge Labs | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/1164) | - |
+| 12 | `655` | Optimize Costs for Google Kubernetes Engine Challenge Labs | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/655) | - |
+| 13 | `649` | Develop Serverless Apps with Firebase | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/649) | - |
+| 14 | `741` | Develop Serverless Applications on Cloud Run | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/741) | - |
 | 15 | `749` | Monitor and Log with Google Cloud Observability | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/749) | - |
-| 16 | `727` | Build Event-Driven Applications with Eventarc | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/727) | - |
-| 17 | `671` | Deploy and Manage Applications on Google App Engine | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/671) | - |
-| 18 | `728` | Implement Event-Driven Messaging and Automation Workflows | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/728) | - |
-| 19 | `754` | The Basics of Google Cloud Compute | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/754) | - |
-| 20 | `637` | Set Up an App Dev Environment on Google Cloud | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/637) | - |
-| 21 | `676` | Implement Cloud Collaboration and Productivity Workflows | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/676) | - |
-| 22 | `755` | Use APIs to Work with Cloud Storage | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/755) | - |
-| 23 | `1164` | Secure Software Delivery | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/1164) | - |
-| 24 | `636` | Build Infrastructure with Terraform on Google Cloud | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/636) | - |
-| 25 | `783` | Manage Kubernetes in Google Cloud | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/783) | - |
-| 26 | `696` | Build Serverless Applications with Cloud Run Functions | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/696) | - |
-| 27 | `635` | App Building with AppSheet | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/635) | - |
-| 28 | `655` | Optimize Costs for Google Kubernetes Engine | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/655) | - |
+| 16 | `716` | Implement DevOps Workflows in Google Cloud | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/716) | - |
+| 17 | `638` | Build a Website on Google Cloud | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/638) | - |
+| 18 | `637` | Set Up an App Dev Environment on Google Cloud | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/637) | - |
+| 19 | `663` | Deploy Kubernetes Applications on Google Cloud | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/663) | - |
+| 20 | `671` | Deploy and Manage Applications on Google App Engine | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/671) | - |
+| 21 | `696` | Build Serverless Applications with Cloud Run Functions | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/696) | - |
+| 22 | `662` | Deploy and Secure Serverless APIs with API Gateway | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/662) | - |
+| 23 | `635` | App Building with AppSheet | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/635) | - |
+| 24 | `653` | Monitor and Manage Google Cloud Resources | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/653) | - |
+| 25 | `636` | Build Infrastructure with Terraform on Google Cloud | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/636) | - |
+| 26 | `661` | Deploy and Manage Apigee X | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/661) | - |
+| 27 | `640` | Cloud Architecture: Design, Implement, and Manage | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/640) | - |
+| 28 | `687` | Build Google Cloud Infrastructure for AWS Professionals | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/687) | - |
+| 29 | `691` | Implement CI/CD Pipelines on Google Cloud | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/691) | - |
+| 30 | `714` | Develop and Secure APIs with Apigee X | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/714) | - |
 
 </details>
 
 <details>
-<summary><b>📊 Data & Analytics (19 Quests)</b></summary>
+<summary><b>📊 Data & Analytics (25 Quests)</b></summary>
 
 | No | ID Quest | Judul Skill Badge | Link Quest | Link YouTube |
 | :---: | :---: | :--- | :---: | :---: |
-| 1 | `776` | Use Functions, Formulas, and Charts in Google Sheets | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/776) | - |
-| 2 | `643` | Create and Manage Cloud Spanner Instances | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/643) | - |
-| 3 | `656` | Perform Predictive Data Analysis in BigQuery | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/656) | - |
-| 4 | `623` | Derive Insights from BigQuery Data | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/623) | - |
-| 5 | `642` | Create and Manage AlloyDB Instances | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/642) | - |
-| 6 | `650` | Create and Manage Bigtable Instances | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/650) | - |
-| 7 | `631` | Prepare Data for ML APIs on Google Cloud | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/631) | - |
-| 8 | `639` | Build LookML Objects in Looker | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/639) | - |
-| 9 | `753` | Enrich Metadata and Discovery of Lakehouse Data | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/753) | - |
-| 10 | `737` | Integrate BigQuery Data and Google Workspace using Apps Script | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/737) | - |
-| 11 | `726` | Organize and Govern Data with Knowledge Catalog | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/726) | - |
-| 12 | `632` | Analyze BigQuery Data in Connected Sheets | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/632) | - |
-| 13 | `751` | Secure Lakehouse Data | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/751) | - |
-| 14 | `752` | Streaming Analytics into BigQuery | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/752) | - |
-| 15 | `659` | Store, Process, and Manage Data on Google Cloud - Command Line | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/659) | - |
+| 1 | `623` | Derive Insights from BigQuery Data | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/623) | - |
+| 2 | `657` | Share Data Using Google Data Cloud | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/657) | - |
+| 3 | `726` | Organize and Govern Data with Knowledge Catalog | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/726) | - |
+| 4 | `737` | Integrate BigQuery Data and Google Workspace using Apps Script | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/737) | - |
+| 5 | `681` | Build a Data Mesh with Knowledge Catalog | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/681) | - |
+| 6 | `751` | Secure Lakehouse Data | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/751) | - |
+| 7 | `753` | Enrich Metadata and Discovery of Lakehouse Data | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/753) | - |
+| 8 | `704` | Create a Secure Data Lake on Cloud Storage | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/704) | - |
+| 9 | `642` | Create and Manage AlloyDB Instances | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/642) | - |
+| 10 | `639` | Build LookML Objects in Looker | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/639) | - |
+| 11 | `628` | Prepare Data for Looker Dashboards and Reports | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/628) | - |
+| 12 | `624` | Build a Data Warehouse with BigQuery | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/624) | - |
+| 13 | `631` | Prepare Data for ML APIs on Google Cloud | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/631) | - |
+| 14 | `705` | Create a Streaming Data Lake on Cloud Storage | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/705) | - |
+| 15 | `752` | Streaming Analytics into BigQuery | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/752) | - |
 | 16 | `658` | Store, Process, and Manage Data on Google Cloud - Console | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/658) | - |
-| 17 | `705` | Create a Streaming Data Lake on Cloud Storage | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/705) | - |
-| 18 | `681` | Build a Data Mesh with Knowledge Catalog | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/681) | - |
-| 19 | `624` | Build a Data Warehouse with BigQuery | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/624) | - |
+| 17 | `632` | Analyze BigQuery Data in Connected Sheets | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/632) | - |
+| 18 | `659` | Store, Process, and Manage Data on Google Cloud - Command Line | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/659) | - |
+| 19 | `650` | Create and Manage Bigtable Instances | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/650) | - |
+| 20 | `776` | Use Functions, Formulas, and Charts in Google Sheets | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/776) | - |
+| 21 | `643` | Create and Manage Cloud Spanner Instances | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/643) | - |
+| 22 | `656` | Perform Predictive Data Analysis in BigQuery Challenge Labs | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/656) | - |
+| 23 | `651` | Manage Data Models in Looker | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/651) | - |
+| 24 | `629` | Migrate MySQL Data to Cloud SQL Using Database Migration Service | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/629) | - |
+| 25 | `652` | Create and Manage Cloud SQL for PostgreSQL Instances | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/652) | - |
 
 </details>
 
 <details>
-<summary><b>🌐 Networking (4 Quests)</b></summary>
+<summary><b>🌐 Networking (6 Quests)</b></summary>
 
 | No | ID Quest | Judul Skill Badge | Link Quest | Link YouTube |
 | :---: | :---: | :--- | :---: | :---: |
-| 1 | `625` | Develop Your Google Cloud Network | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/625) | - |
+| 1 | `641` | Set Up a Google Cloud Network | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/641) | - |
 | 2 | `654` | Build a Secure Google Cloud Network | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/654) | - |
 | 3 | `648` | Implementing Cloud Load Balancing for Compute Engine | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/648) | - |
-| 4 | `641` | Set Up a Google Cloud Network | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/641) | - |
+| 4 | `625` | Develop Your Google Cloud Network | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/625) | - |
+| 5 | `1558` | Build Global and Regional Load Balancing Solutions | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/1558) | - |
+| 6 | `1364` | Connecting Cloud Networks with NCC Challenge Labs | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/1364) | - |
 
 </details>
 
@@ -243,14 +252,14 @@ Klik kategori di bawah ini untuk memunculkan daftar Skill Badge:
 
 | No | ID Quest | Judul Skill Badge | Link Quest | Link YouTube |
 | :---: | :---: | :--- | :---: | :---: |
-| 1 | `645` | Implement Cloud Security Fundamentals on Google Cloud | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/645) | - |
-| 2 | `1337` | Privileged Access with IAM | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/1337) | - |
+| 1 | `702` | Configure Service Accounts and IAM Roles for Google Cloud | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/702) | - |
+| 2 | `750` | Get Started with Sensitive Data Protection | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/750) | - |
 | 3 | `784` | Protect Cloud Traffic with Chrome Enterprise Premium Security | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/784) | - |
-| 4 | `702` | Configure Service Accounts and IAM Roles for Google Cloud | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/702) | - |
-| 5 | `750` | Get Started with Sensitive Data Protection | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/750) | - |
+| 4 | `1177` | Discover and Protect Sensitive Data Across Your Ecosystem Challenge Labs | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/1177) | - |
+| 5 | `645` | Implement Cloud Security Fundamentals on Google Cloud | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/645) | - |
 | 6 | `725` | Implement Cloud Storage and Data Protection Solutions | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/725) | - |
-| 7 | `1177` | Discover and Protect Sensitive Data Across Your Ecosystem | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/1177) | - |
-| 8 | `759` | Mitigate Threats and Vulnerabilities with Security Command Center | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/759) | - |
+| 7 | `759` | Mitigate Threats and Vulnerabilities with Security Command Center | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/759) | - |
+| 8 | `1337` | Privileged Access with IAM Challenge Labs | [![Quest](https://img.shields.io/badge/Buka_Quest-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://skills.google/course_templates/1337) | - |
 
 </details>
 
@@ -258,7 +267,7 @@ Klik kategori di bawah ini untuk memunculkan daftar Skill Badge:
 
 ## 📝 Lisensi & Kredit
 
-- Dibuat oleh **Hazz**.
+- Dibuat dengan 💻 oleh **Hazz**.
 - Seluruh data bersumber dari program resmi Google Cloud Arcade Fasilitator 2026.
 
 ---
