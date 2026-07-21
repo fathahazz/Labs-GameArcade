@@ -14,10 +14,10 @@ Poin dihitung menggunakan rumus resmi program Fasilitator:
 
 | Milestone | Syarat Kelulusan | Poin Bonus | Total Poin (Base + Bonus) |
 | :--- | :--- | :---: | :---: |
-| 🏅 **Milestone 1** | 6 Games + 14 Skill Badges | `+5` | **18.0 Poin** |
-| 🥈 **Milestone 2** | 8 Games + 28 Skill Badges | `+15` | **37.0 Poin** |
-| 🥇 **Milestone 3** | 10 Games + 42 Skill Badges | `+25` | **56.0 Poin** |
-| 👑 **Ultimate Milestone (M4)** | 12 Games + 56 Skill Badges | `+35` | **75.0 Poin** |
+| 🏅 **Milestone 1** | 6 Games + 14 Skill Badges | `+7` | **20.0 Poin** |
+| 🥈 **Milestone 2** | 8 Games + 28 Skill Badges | `+18` | **40.0 Poin** |
+| 🥇 **Milestone 3** | 10 Games + 42 Skill Badges | `+29` | **60.0 Poin** |
+| 👑 **Ultimate Milestone (M4)** | 12 Games + 56 Skill Badges | `+40` | **80.0 Poin** |
 
 ---
 
@@ -27,12 +27,12 @@ Berikut adalah daftar game aktif. Gunakan **Kode Akses** untuk membukanya di por
 
 | No | Judul Game | Kode Akses | Link Game |
 | :---: | :--- | :---: | :---: |
-| 1 | **Arcade Base Camp July 2026** | `1q-basecamp-07511` | [![Buka Game](https://img.shields.io/badge/Buka_Game-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/course_templates/76266) |
-| 2 | **Arcade Adventure: Low-Code Development** | `1q-lowcode-07512` | [![Buka Game](https://img.shields.io/badge/Buka_Game-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/course_templates/76267) |
-| 3 | **Arcade Simulator: Data Mesh Architect** | `1q-datamesh-07513` | [![Buka Game](https://img.shields.io/badge/Buka_Game-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/course_templates/76268) |
-| 4 | **Arcade Trail: Google Workspace Administration** | `1q-workspace-07514` | [![Buka Game](https://img.shields.io/badge/Buka_Game-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/course_templates/76269) |
-| 5 | **Arcade Voyage: Cloud Storage and Data Governance** | `1q-storage-07515` | [![Buka Game](https://img.shields.io/badge/Buka_Game-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/course_templates/76270) |
-| 6 | **Safe Spaces** | `1q-safespaces-07516` | [![Buka Game](https://img.shields.io/badge/Buka_Game-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/course_templates/76271) |
+| 1 | **Arcade Base Camp July 2026** | `1q-basecamp-07511` | [![Buka Game](https://img.shields.io/badge/Buka_Game-4285F4?style=flat-square&logo=google-cloud&logoColor=white)]([https://www.cloudskillsboost.google/course_templates/76266](https://www.skills.google/games/7313?utm_source=googleskills&utm_medium=lp&utm_campaign=basecamp-july-arcade26)) |
+| 2 | **Arcade Adventure: Low-Code Development** | `1q-lowcode-07512` | [![Buka Game](https://img.shields.io/badge/Buka_Game-4285F4?style=flat-square&logo=google-cloud&logoColor=white)]([https://www.cloudskillsboost.google/course_templates/76267](https://www.skills.google/games/7314?utm_source=qwiklabs&utm_medium=lp&utm_campaign=adv-july-arcade26)) |
+| 3 | **Arcade Simulator: Data Mesh Architect** | `1q-datamesh-07513` | [![Buka Game](https://img.shields.io/badge/Buka_Game-4285F4?style=flat-square&logo=google-cloud&logoColor=white)]([https://www.cloudskillsboost.google/course_templates/76268](https://www.skills.google/games/7317?utm_source=googleskills&utm_medium=lp&utm_campaign=spegame-july-arcade26)) |
+| 4 | **Arcade Trail: Google Workspace Administration** | `1q-workspace-07514` | [![Buka Game](https://img.shields.io/badge/Buka_Game-4285F4?style=flat-square&logo=google-cloud&logoColor=white)]([https://www.cloudskillsboost.google/course_templates/76269](https://www.skills.google/games/7316?utm_source=googleskills&utm_medium=lp&utm_campaign=trail-july-arcade26)) |
+| 5 | **Arcade Voyage: Cloud Storage and Data Governance** | `1q-storage-07515` | [![Buka Game](https://img.shields.io/badge/Buka_Game-4285F4?style=flat-square&logo=google-cloud&logoColor=white)]([https://www.cloudskillsboost.google/course_templates/76270](https://www.skills.google/games/7315?utm_source=googleskills&utm_medium=lp&utm_campaign=voyage-july-arcade26)) |
+| 6 | **Safe Spaces** | `1q-safespaces-07516` | [![Buka Game](https://img.shields.io/badge/Buka_Game-4285F4?style=flat-square&logo=google-cloud&logoColor=white)]([https://www.cloudskillsboost.google/course_templates/76271](https://www.skills.google/games/7318?utm_source=googleskills&utm_medium=lp&utm_campaign=wmpgame-july-arcade26)) |
 
 ### 📂 Daftar Lab di Dalam Game (Collapsible)
 Klik pada judul game di bawah ini untuk melihat detail lab di dalamnya:
