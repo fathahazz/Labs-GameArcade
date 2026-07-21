@@ -1,9 +1,11 @@
+<!-- PERINGATAN HAK CIPTA: Dilarang menyalin, mendistribusikan ulang, atau memodifikasi kode repositori ini tanpa izin tertulis dari pemilik (Hazz). -->
 # 🎮 Google Cloud Arcade & Skills Fastrack 2026 Tracker
 
 ![Arcade 2026 Banner](arcade_2026_banner.jpg)
 
 > **Powered by Hazz** • Lacak milestone dan selesaikan semua Google Cloud Qwiklabs dengan panduan terintegrasi.
 
+<!-- LISENSI: Penggunaan tracker ini hanya untuk keperluan belajar pribadi peserta Arcade 2026. Plagiarisme kode akan dilaporkan. -->
 ## 🏆 Sistem Poin & Target Milestone
 
 Poin dihitung menggunakan rumus resmi program Fasilitator:
@@ -275,12 +277,7 @@ Klik kategori di bawah ini untuk memunculkan daftar Skill Badge:
 
 ---
 
-
-> [!WARNING]
-
-> UNTUK YANG TIDAK WORK ATAU LINK YT TIDAK ADA, SILAHKAN GUNAKAN AI KESAYANGAN MASING MASING
-
-
+<!-- Dibuat secara personal oleh Hazz. Dilarang menduplikasi kode repositori ini untuk keperluan komersil. -->
 ## 📝 Lisensi & Kredit
 
 - Dibuat dengan 💻 oleh **Hazz**.
@@ -288,6 +285,7 @@ Klik kategori di bawah ini untuk memunculkan daftar Skill Badge:
 
 ---
 
+<!-- DUKUNGAN PEMILIK: Lacak status donasi dan dukung kreator program ini secara langsung. -->
 ## 💸 Dukung Saya (Donasi via QRIS)
 
 Jika tracker ini membantu Anda, silakan berikan dukungan melalui scan QRIS di bawah ini:
