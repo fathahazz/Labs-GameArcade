@@ -14,10 +14,10 @@ Poin dihitung menggunakan rumus resmi program Fasilitator:
 
 | Milestone | Syarat Kelulusan | Poin Bonus | Total Poin (Base + Bonus) |
 | :--- | :--- | :---: | :---: |
-| 🏅 **Milestone 1** | 6 Games + 14 Skill Badges | `+7` | **20.0 Poin** |
-| 🥈 **Milestone 2** | 8 Games + 28 Skill Badges | `+18` | **40.0 Poin** |
-| 🥇 **Milestone 3** | 10 Games + 42 Skill Badges | `+29` | **60.0 Poin** |
-| 👑 **Ultimate Milestone (M4)** | 12 Games + 56 Skill Badges | `+40` | **80.0 Poin** |
+| 🏅 **Milestone 1** | 6 Games + 14 Skill Badges | `+5` | **18.0 Poin** |
+| 🥈 **Milestone 2** | 8 Games + 28 Skill Badges | `+15` | **37.0 Poin** |
+| 🥇 **Milestone 3** | 10 Games + 42 Skill Badges | `+25` | **56.0 Poin** |
+| 👑 **Ultimate Milestone (M4)** | 12 Games + 56 Skill Badges | `+35` | **75.0 Poin** |
 
 ---
 
@@ -27,12 +27,12 @@ Berikut adalah daftar game aktif. Gunakan **Kode Akses** untuk membukanya di por
 
 | No | Judul Game | Kode Akses | Link Game |
 | :---: | :--- | :---: | :---: |
-| 1 | **Arcade Base Camp July 2026** | `1q-basecamp-07511` | [![Buka Game](https://img.shields.io/badge/Buka_Game-4285F4?style=flat-square&logo=google-cloud&logoColor=white)]([https://www.cloudskillsboost.google/course_templates/76266](https://www.skills.google/games/7313?utm_source=googleskills&utm_medium=lp&utm_campaign=basecamp-july-arcade26) |
-| 2 | **Arcade Adventure: Low-Code Development** | `1q-lowcode-07512` | [![Buka Game](https://img.shields.io/badge/Buka_Game-4285F4?style=flat-square&logo=google-cloud&logoColor=white)]([https://www.cloudskillsboost.google/course_templates/76267](https://www.skills.google/games/7314?utm_source=qwiklabs&utm_medium=lp&utm_campaign=adv-july-arcade26) |
-| 3 | **Arcade Simulator: Data Mesh Architect** | `1q-datamesh-07513` | [![Buka Game](https://img.shields.io/badge/Buka_Game-4285F4?style=flat-square&logo=google-cloud&logoColor=white)]([https://www.cloudskillsboost.google/course_templates/76268](https://www.skills.google/games/7317?utm_source=googleskills&utm_medium=lp&utm_campaign=spegame-july-arcade26) |
-| 4 | **Arcade Trail: Google Workspace Administration** | `1q-workspace-07514` | [![Buka Game](https://img.shields.io/badge/Buka_Game-4285F4?style=flat-square&logo=google-cloud&logoColor=white)]([https://www.cloudskillsboost.google/course_templates/76269](https://www.skills.google/games/7316?utm_source=googleskills&utm_medium=lp&utm_campaign=trail-july-arcade26) |
-| 5 | **Arcade Voyage: Cloud Storage and Data Governance** | `1q-storage-07515` | [![Buka Game](https://img.shields.io/badge/Buka_Game-4285F4?style=flat-square&logo=google-cloud&logoColor=white)]([https://www.cloudskillsboost.google/course_templates/76270](https://www.skills.google/games/7315?utm_source=googleskills&utm_medium=lp&utm_campaign=voyage-july-arcade26) |
-| 6 | **Safe Spaces** | `1q-safespaces-07516` | [![Buka Game](https://img.shields.io/badge/Buka_Game-4285F4?style=flat-square&logo=google-cloud&logoColor=white)]([https://www.cloudskillsboost.google/course_templates/76271](https://www.skills.google/games/7318?utm_source=googleskills&utm_medium=lp&utm_campaign=wmpgame-july-arcade26) |
+| 1 | **Arcade Base Camp July 2026** | `1q-basecamp-07511` | [![Buka Game](https://img.shields.io/badge/Buka_Game-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://www.skills.google/games/7313?utm_source=googleskills&utm_medium=lp&utm_campaign=basecamp-july-arcade26) |
+| 2 | **Arcade Adventure: Low-Code Development** | `1q-lowcode-92316` | [![Buka Game](https://img.shields.io/badge/Buka_Game-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://www.skills.google/games/7314?utm_source=qwiklabs&utm_medium=lp&utm_campaign=adv-july-arcade26) |
+| 3 | **Arcade Simulator: Data Mesh Architect** | `1q-datamesh-16451` | [![Buka Game](https://img.shields.io/badge/Buka_Game-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://www.skills.google/games/7317?utm_source=googleskills&utm_medium=lp&utm_campaign=spegame-july-arcade26) |
+| 4 | **Arcade Trail: Google Workspace Administration** | `1q-workspace-31069` | [![Buka Game](https://img.shields.io/badge/Buka_Game-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://www.skills.google/games/7316?utm_source=googleskills&utm_medium=lp&utm_campaign=trail-july-arcade26) |
+| 5 | **Arcade Voyage: Cloud Storage and Data Governance** | `1q-bucket-58231` | [![Buka Game](https://img.shields.io/badge/Buka_Game-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://www.skills.google/games/7315?utm_source=googleskills&utm_medium=lp&utm_campaign=voyage-july-arcade26) |
+| 6 | **Safe Spaces** | `1q-security-19110` | [![Buka Game](https://img.shields.io/badge/Buka_Game-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://www.skills.google/games/7318?utm_source=googleskills&utm_medium=lp&utm_campaign=wmpgame-july-arcade26) |
 
 ### 📂 Daftar Lab di Dalam Game (Collapsible)
 Klik pada judul game di bawah ini untuk melihat detail lab di dalamnya:
@@ -42,10 +42,10 @@ Klik pada judul game di bawah ini untuk melihat detail lab di dalamnya:
 
 | No | ID Lab | Nama Lab | Link Lab | Link YouTube |
 | :---: | :---: | :--- | :---: | :---: |
-| 1 | `GSP750` | Infrastructure as Code with Terraform | [![Lab](https://img.shields.io/badge/Buka_Lab-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/focuses/11831?parent=catalog) | [![YouTube Search](https://img.shields.io/badge/Tutor_YT-EF4444?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/results?search_query=Google+Cloud+Qwiklabs+GSP750+Infrastructure+as+Code+with+Terraform) |
-| 2 | `GSP751` | Interact with Terraform Modules | [![Lab](https://img.shields.io/badge/Buka_Lab-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/focuses/12062?parent=catalog) | [![YouTube Search](https://img.shields.io/badge/Tutor_YT-EF4444?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/results?search_query=Google+Cloud+Qwiklabs+GSP751+Interact+with+Terraform+Modules) |
-| 3 | `GSP752` | Manage Terraform State | [![Lab](https://img.shields.io/badge/Buka_Lab-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/focuses/12061?parent=catalog) | [![YouTube Search](https://img.shields.io/badge/Tutor_YT-EF4444?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/results?search_query=Google+Cloud+Qwiklabs+GSP752+Manage+Terraform+State) |
-| 4 | `GSP345` | Build Infrastructure with Terraform on Google Cloud: Challenge Lab | [![Lab](https://img.shields.io/badge/Buka_Lab-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/focuses/10433?parent=catalog) | [![YouTube Search](https://img.shields.io/badge/Tutor_YT-EF4444?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/results?search_query=Google+Cloud+Qwiklabs+GSP345+Build+Infrastructure+with+Terraform+on+Google+Cloud:+Challenge+Lab) |
+| 1 | `GSP750` | Infrastructure as Code with Terraform | [![Lab](https://img.shields.io/badge/Buka_Lab-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://www.skills.google/games/7313/labs/45035) | [![YouTube Search](https://img.shields.io/badge/Tutor_YT-EF4444?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=HyY5c7zEvTo) |
+| 2 | `GSP751` | Interact with Terraform Modules | [![Lab](https://img.shields.io/badge/Buka_Lab-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://www.skills.google/games/7313/labs/45036) | [![YouTube Search](https://img.shields.io/badge/Tutor_YT-EF4444?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=p9rueUKupV0) |
+| 3 | `GSP752` | Manage Terraform State | [![Lab](https://img.shields.io/badge/Buka_Lab-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://www.skills.google/games/7313/labs/45037) | [![YouTube Search](https://img.shields.io/badge/Tutor_YT-EF4444?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=iV23KRtGjb0) |
+| 4 | `GSP345` | Build Infrastructure with Terraform on Google Cloud: Challenge Lab | [![Lab](https://img.shields.io/badge/Buka_Lab-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://www.skills.google/games/7313/labs/45038) | [![YouTube Search](https://img.shields.io/badge/Tutor_YT-EF4444?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=2RlSVdue2Sk) |
 | 5 | `GSP1185` | Securing Container Builds | [![Lab](https://img.shields.io/badge/Buka_Lab-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/focuses/74211?parent=catalog) | [![YouTube Search](https://img.shields.io/badge/Tutor_YT-EF4444?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/results?search_query=Google+Cloud+Qwiklabs+GSP1185+Securing+Container+Builds) |
 | 6 | `GSP1184` | Secure Builds with Cloud Build | [![Lab](https://img.shields.io/badge/Buka_Lab-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/focuses/74209?parent=catalog) | [![YouTube Search](https://img.shields.io/badge/Tutor_YT-EF4444?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/results?search_query=Google+Cloud+Qwiklabs+GSP1184+Secure+Builds+with+Cloud+Build) |
 | 7 | `GSP1183` | Gating Deployments with Binary Authorization | [![Lab](https://img.shields.io/badge/Buka_Lab-2563EB?style=flat-square&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/focuses/74210?parent=catalog) | [![YouTube Search](https://img.shields.io/badge/Tutor_YT-EF4444?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/results?search_query=Google+Cloud+Qwiklabs+GSP1183+Gating+Deployments+with+Binary+Authorization) |
@@ -54,7 +54,7 @@ Klik pada judul game di bawah ini untuk melihat detail lab di dalamnya:
 </details>
 
 <details>
-<summary><b>🎮 2. Arcade Adventure: Low-Code Development (7 Labs) - Kode Akses: 1q-lowcode-07512</b></summary>
+<summary><b>🎮 2. Arcade Adventure: Low-Code Development (7 Labs) - Kode Akses: 1q-</b></summary>
 
 | No | ID Lab | Nama Lab | Link Lab | Link YouTube |
 | :---: | :---: | :--- | :---: | :---: |
