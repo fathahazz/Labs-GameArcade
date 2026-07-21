@@ -258,7 +258,7 @@ Klik kategori di bawah ini untuk memunculkan daftar Skill Badge:
 
 ## 📝 Lisensi & Kredit
 
-- Dibuat dengan 💻 oleh **Hazz**.
+- Dibuat oleh **Hazz**.
 - Seluruh data bersumber dari program resmi Google Cloud Arcade Fasilitator 2026.
 
 ---
