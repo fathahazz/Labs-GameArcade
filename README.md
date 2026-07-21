@@ -14,10 +14,10 @@ Poin dihitung menggunakan rumus resmi program Fasilitator:
 
 | Milestone | Syarat Kelulusan | Poin Bonus | Total Poin (Base + Bonus) |
 | :--- | :--- | :---: | :---: |
-| 🏅 **Milestone 1** | 6 Games + 14 Skill Badges | `+5` | **18.0 Poin** |
-| 🥈 **Milestone 2** | 8 Games + 28 Skill Badges | `+15` | **37.0 Poin** |
-| 🥇 **Milestone 3** | 10 Games + 42 Skill Badges | `+25` | **56.0 Poin** |
-| 👑 **Ultimate Milestone (M4)** | 12 Games + 56 Skill Badges | `+35` | **75.0 Poin** |
+| 🏅 **Milestone 1** | 6 Games + 14 Skill Badges | `+7` | **20.0 Poin** |
+| 🥈 **Milestone 2** | 8 Games + 28 Skill Badges | `+18` | **40.0 Poin** |
+| 🥇 **Milestone 3** | 10 Games + 42 Skill Badges | `+29` | **60.0 Poin** |
+| 👑 **Ultimate Milestone (M4)** | 12 Games + 56 Skill Badges | `+40` | **80.0 Poin** |
 
 ---
 
